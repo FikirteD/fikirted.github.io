@@ -1,0 +1,65 @@
+.body
+{ font-family:"DejaVu Sans Light";
+}
+.pol {
+    fill: lightgray;
+    stroke: black;
+    stroke-width: 5;
+   stroke-opacity:  1;
+}
+
+.cir{
+    fill: black;
+    stroke: black;
+}
+.gcir{
+    fill:gray ;
+    stroke: black;
+    stroke-width: 5;
+    opacity: 1;
+
+}
+.gbod{
+    fill: slategray;
+    stroke: black;
+}
+.lin {
+    fill: black;
+    stroke: black;
+    stroke-width: 25;
+    stroke-opacity: 1;
+}
+.blin {
+    fill: black;
+    stroke: black;
+    stroke-width: 5;
+    stroke-opacity: 0.2;
+}
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+}
+.navbar a {
+    float: left;
+    padding: 12px;
+    color: White;
+    text-decoration: none;
+    font-size: 20px;
+    width: 20%;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: #4CAF50;
+}
+.main {
+    padding: 16px;
+    margin-bottom: 30px;
+}
+}
+.xlable{
+    fill: blue;
+    font-size: 44pt;
+    text-anchor: middle;
+}
